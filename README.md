@@ -1,8 +1,8 @@
 # Alura - Formação Power BI
 
-Nessa formação pretendo aprender sobre o Power BI a fim de criar dashboards para falicitar a análise e compreensão de dados. 
+Nessa formação aprendi sobre o Power BI a fim de criar dashboards para falicitar a análise e compreensão de dados. 
 
-São 5 cursos em cerca de 55h de aprendizado. Link: https://cursos.alura.com.br/formacao-power-bi
+Foram 5 cursos em cerca de 55h de aprendizado. Link: https://cursos.alura.com.br/formacao-power-bi
 * Curso - Power BI Desktop: construindo meu primeiro dashboard
 * Curso - Dashboard com Power BI: visualizando dados
 * Curso - Power BI Desktop: tratamento de dados no Power Query
