@@ -12,3 +12,4 @@ Foram 5 cursos em cerca de 55h de aprendizado. Link: https://cursos.alura.com.br
 ### Projetos desenvolvidos:
 
 * Projeto: Alura Pets
+* Projeto: Clube do livro
