@@ -13,3 +13,5 @@ Foram 5 cursos em cerca de 55h de aprendizado. Link: https://cursos.alura.com.br
 
 * Projeto: Alura Pets
 * Projeto: Clube do livro
+* Projeto: Dashboard de vendas
+* Projeto: Dashboard de RH
